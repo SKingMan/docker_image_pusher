@@ -1,2 +1,17 @@
 nginx
 mysql
+rabbitmq
+redis
+mongo
+sameersbn/gitlab
+mysql:5.7	
+tomcat
+postgres
+debian
+sameersbn/postgresql
+ubuntu
+docker/getting-started
+centos	latest
+nvidia/cuda
+mcr.microsoft.com/mssql/server:2022-latest
+elasticsearch
