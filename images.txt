@@ -3,7 +3,6 @@ mysql
 rabbitmq
 redis
 mongo
-sameersbn/gitlab
 mysql:5.7	
 tomcat
 postgres
