@@ -14,3 +14,4 @@ centos
 mcr.microsoft.com/mssql/server:2022-latest
 mcr.microsoft.com/dotnet/core/aspnet:3.1
 jeroened/webcron
+apache/doris:build-env-for-2.0
