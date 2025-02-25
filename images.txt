@@ -19,4 +19,3 @@ taozex/doris:v1.1.1
 apache/doris:doris-all-in-one-2.1.0
 apache/flink:1.17-scala_2.12
 apache/superset:a849c29
-dify
